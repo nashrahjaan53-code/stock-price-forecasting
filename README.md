@@ -149,4 +149,4 @@ This project is for **educational purposes only**. It is not financial advice. S
 
 Made by Nashrah k(https://github.com/nashrahjaan53-code)
 
-⭐ Star this repo if you found it helpful!
+ Star this repo if you found it helpful!
